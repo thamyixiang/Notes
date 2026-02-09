@@ -3,7 +3,7 @@
 A recent Tsinghua result has been framed as a technical breakthrough.
 
 The algorithm itself probably won’t matter to most people.
-What stood out to me was the culture signal behind it — a willingness
+What stood out to me was the culture signal behind it: a willingness
 to try approaches others had already decided would not work.
 
 When I think about long-term options, especially investing, I try not
