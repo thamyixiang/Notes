@@ -1,2 +1,5 @@
 # Notes
-Personal notes and observations. Public by default.
+
+Short observations and reflections.
+Written irregularly.
+No particular audience.
